@@ -1,0 +1,27 @@
+{
+  "name": "16-dars",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev":"nodemon src/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/muhammadazizrafiqjonov/FS_2-oy_dars16.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/muhammadazizrafiqjonov/FS_2-oy_dars16/issues"
+  },
+  "homepage": "https://github.com/muhammadazizrafiqjonov/FS_2-oy_dars16#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1",
+    "pg": "^8.16.3"
+  }
+}
